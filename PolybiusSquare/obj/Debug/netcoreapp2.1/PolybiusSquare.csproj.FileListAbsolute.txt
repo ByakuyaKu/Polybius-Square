@@ -1,0 +1,11 @@
+D:\GERASKIN\PolybiusSquare\PolybiusSquare\bin\Debug\netcoreapp2.1\PolybiusSquare.deps.json
+D:\GERASKIN\PolybiusSquare\PolybiusSquare\bin\Debug\netcoreapp2.1\PolybiusSquare.runtimeconfig.json
+D:\GERASKIN\PolybiusSquare\PolybiusSquare\bin\Debug\netcoreapp2.1\PolybiusSquare.runtimeconfig.dev.json
+D:\GERASKIN\PolybiusSquare\PolybiusSquare\bin\Debug\netcoreapp2.1\PolybiusSquare.dll
+D:\GERASKIN\PolybiusSquare\PolybiusSquare\bin\Debug\netcoreapp2.1\PolybiusSquare.pdb
+D:\GERASKIN\PolybiusSquare\PolybiusSquare\obj\Debug\netcoreapp2.1\PolybiusSquare.csprojAssemblyReference.cache
+D:\GERASKIN\PolybiusSquare\PolybiusSquare\obj\Debug\netcoreapp2.1\PolybiusSquare.csproj.CoreCompileInputs.cache
+D:\GERASKIN\PolybiusSquare\PolybiusSquare\obj\Debug\netcoreapp2.1\PolybiusSquare.AssemblyInfoInputs.cache
+D:\GERASKIN\PolybiusSquare\PolybiusSquare\obj\Debug\netcoreapp2.1\PolybiusSquare.AssemblyInfo.cs
+D:\GERASKIN\PolybiusSquare\PolybiusSquare\obj\Debug\netcoreapp2.1\PolybiusSquare.dll
+D:\GERASKIN\PolybiusSquare\PolybiusSquare\obj\Debug\netcoreapp2.1\PolybiusSquare.pdb
